@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+aiohttp
+pydantic-settings
+httpx
+rdkit
+numpy
+scipy
